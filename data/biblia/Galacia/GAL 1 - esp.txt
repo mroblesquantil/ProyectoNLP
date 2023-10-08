@@ -1,6 +1,6 @@
 Introducción Saludo 
  1Pablo, apóstol no por disposición ni intervención humana alguna, sino por encargo de Jesucristo y de Dios Padre que lo resucitó de la muerte, 
- junto con todos los hermanos que están conmigo, a las iglesias de Galacia. 
+ 2junto con todos los hermanos que están conmigo, a las iglesias de Galacia. 
  3Que Dios Padre y Jesucristo, el Señor, les concedan gracia y paz. 
  4Jesucristo, que ha entregado su vida por nuestros pecados y nos ha liberado de esta era infestada de maldad, conforme a lo dispuesto por Dios nuestro Padre, 
  5a quien pertenece la gloria por siempre. Amén.Solo hay un mensaje de salvación 
@@ -14,7 +14,7 @@ Introducción Saludo
  13Ya conocen mi antigua conducta, cuando aún militaba en las filas del judaísmo: con qué saña perseguía a la Iglesia de Dios intentando aniquilarla. 
  14Incluso sobresalí dentro del judaísmo por encima de muchos de mis compatriotas como fanático defensor de las tradiciones de mis antepasados. 
  15Pero Dios, que me había elegido ya desde antes de mi nacimiento, me llamó por pura benevolencia 
- para revelarme a su Hijo y darme el encargo de que lo anunciara a los que no son judíos. No solicité entonces ningún consejo humano; 
+ 16para revelarme a su Hijo y darme el encargo de que lo anunciara a los que no son judíos. No solicité entonces ningún consejo humano; 
  17ni siquiera fui a Jerusalén para hablar con quienes eran apóstoles antes que yo, sino que me fui a la región de Arabia, de donde volví otra vez a Damasco. 
  18Tres años más tarde, fui a Jerusalén para conocer a Pedro y estuve con él quince días. 
  19A ningún otro apóstol vi, aparte de Santiago, el hermano del Señor. 
@@ -22,4 +22,4 @@ Introducción Saludo
  21Después fui a las regiones de Siria y Cilicia. 
  22A todo esto, las iglesias cristianas de Judea seguían sin conocerme en persona. 
  23Únicamente habían oído decir: «El que en otro tiempo nos perseguía, ahora anuncia la fe que antes pretendía aniquilar». 
- Y alababan a Dios por causa mía. 
+ 24Y alababan a Dios por causa mía. 

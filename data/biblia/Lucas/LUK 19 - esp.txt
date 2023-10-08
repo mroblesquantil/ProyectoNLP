@@ -8,7 +8,7 @@ Jesús y Zaqueo
  7Al ver esto, todos se pusieron a murmurar diciendo:—Este se aloja en casa de un hombre de mala reputación.; 
  8Zaqueo, por su parte, se puso en pie y, dirigiéndose al Señor, dijo:—Señor, estoy decidido a dar a los pobres la mitad de mis bienes y a devolver cuatro veces más a los que haya defraudado en algo. 
  9Entonces Jesús le dijo:—Hoy ha llegado la salvación a esta casa, pues también este es descendiente de Abrahán. 
- En efecto, el Hijo del hombre ha venido a buscar y salvar lo que estaba perdido.
+ 10En efecto, el Hijo del hombre ha venido a buscar y salvar lo que estaba perdido.
  11.Parábola del capital y los intereses 
  11Estaba la gente escuchando a Jesús y les contó otra parábola, pues se hallaba cerca de Jerusalén y ellos creían que el reino de Dios estaba a punto de manifestarse. 
  12Así que les dijo:—Un hombre de familia noble se fue a un país lejano para recibir la investidura real y regresar después. 
@@ -20,7 +20,7 @@ Jesús y Zaqueo
  18Después se presentó el segundo criado y dijo: «Señor, tu capital ha producido cinco veces más». 
  19También a este le contestó el rey: «Igualmente a ti te encomiendo el gobierno de cinco ciudades». 
  20Pero luego se presentó otro criado, diciendo: «Señor, aquí tienes tu dinero. Lo he guardado bien envuelto en un pañuelo 
- por miedo a ti, pues sé que eres un hombre duro, que pretendes tomar lo que no depositaste y cosechar lo que no sembraste». 
+ 21por miedo a ti, pues sé que eres un hombre duro, que pretendes tomar lo que no depositaste y cosechar lo que no sembraste». 
  22El rey le contestó: «Eres un mal administrador, y por tus propias palabras te condeno. Si sabías que yo soy un hombre duro, que pretendo tomar lo que no he depositado y cosechar lo que no he sembrado, 
  23¿por qué no llevaste mi dinero al banco? Así, a mi regreso, yo lo habría recibido junto con los intereses». 
  24Y, dirigiéndose a los presentes, mandó: «Quítenle a este su capital y dénselo al que tiene diez veces más». 
@@ -43,9 +43,9 @@ Jesús y Zaqueo
  41Cuando Jesús llegó cerca de Jerusalén, al ver la ciudad, lloró a causa de ella 
  42y dijo:—¡Si al menos en este día supieras cómo encontrar lo que conduce a la paz! Pero eso está ahora fuera de tu alcance. 
  43Días vendrán en que tus enemigos te rodearán de trincheras, te pondrán sitio, te atacarán por todas partes 
- y te destruirán junto con todos tus habitantes. No dejarán de ti piedra sobre piedra, porque no supiste reconocer el momento en que Dios quiso salvarte. .Los comerciantes expulsados del Templo 
+ 44y te destruirán junto con todos tus habitantes. No dejarán de ti piedra sobre piedra, porque no supiste reconocer el momento en que Dios quiso salvarte. .Los comerciantes expulsados del Templo 
  45Después de esto, Jesús entró en el Templo y se puso a expulsar a los que estaban vendiendo en él, 
  46diciéndoles:—Esto dicen las Escrituras: Mi casa ha de ser casa de oración; pero ustedes la han convertido en una cueva de ladrones. 
  47Y Jesús enseñaba en el Templo todos los días. Mientras tanto, los jefes de los sacerdotes, los maestros de la ley y los principales del pueblo andaban buscando cómo matarlo;
-  
+ 55 y par.; Jn 
  48pero no encontraban la manera de hacerlo, porque todo el pueblo estaba pendiente de su palabra. 

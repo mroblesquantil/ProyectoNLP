@@ -1,8 +1,8 @@
 Parábola de las diez muchachas 
  1El reino de los cielos puede compararse a diez muchachas que en una boda tomaron sendas lámparas de aceite y salieron a recibir al novio. 
  2Cinco de aquellas muchachas eran descuidadas, y las otras cinco, previsoras.
- Y sucedió que las descuidadas llevaron sus lámparas, pero olvidaron tomar el aceite necesario. 
- En cambio, las previsoras, junto con las lámparas, llevaron también alcuzas de aceite. 
+ 3Y sucedió que las descuidadas llevaron sus lámparas, pero olvidaron tomar el aceite necesario. 
+ 4En cambio, las previsoras, junto con las lámparas, llevaron también alcuzas de aceite. 
  5Como el novio tardaba en llegar, les entró sueño a todas y se durmieron. 
  6Cuando a eso de la medianoche se oyó gritar: «¡Ya viene el novio! ¡Salgan a recibirlo!», 
  7las diez muchachas se despertaron y comenzaron a preparar sus lámparas. 
@@ -23,7 +23,7 @@ Parábola de las diez muchachas
  22Llegó después el que había recibido dos talentos, y dijo: «Señor, tú me entregaste dos talentos; mira, he logrado duplicarlos». 
  23El amo le dijo: «Está muy bien. Has sido un administrador honrado y fiel. Y como has sido fiel en lo poco, yo te pondré al frente de mucho más. Entra y participa en mi propia alegría». 
  24Por último, llegó el que solamente había recibido un talento, y dijo: «Señor, yo sabía que eres un hombre duro, que pretendes cosechar donde no sembraste y recoger donde no esparciste. 
- Tuve miedo y escondí tu dinero bajo tierra. Aquí lo tienes». 
+ 25Tuve miedo y escondí tu dinero bajo tierra. Aquí lo tienes». 
  26El amo le contestó: «Administrador malo y holgazán: si sabías que yo cosecho donde no he sembrado y recojo donde no he esparcido, 
  27¿por qué no llevaste mi dinero al banco? Así, a mi regreso, yo habría recibido el capital más los intereses. 
  28¡Quítenle, pues, la parte que le confié y entrégensela al que tiene diez partes! 
